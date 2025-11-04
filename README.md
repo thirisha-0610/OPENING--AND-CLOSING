@@ -66,7 +66,8 @@ closed_image = cv2.morphologyEx(image, cv2.MORPH_CLOSE, kernel)
 
 
 ### Display the result of Closing
-<img width="431" height="440" alt="image" src="https://github.com/user-attachments/assets/db25de4a-045c-4c32-a95e-132908142e5c" />
+
+<img width="389" height="411" alt="download" src="https://github.com/user-attachments/assets/11c806b6-ff4c-4ba5-af7a-d7b8f3da7641" />
 
 
 ## Result
